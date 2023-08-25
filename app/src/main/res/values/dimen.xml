@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="x_sm">2dp</dimen>
+    <dimen name="sm">4dp</dimen>
+    <dimen name="x_md">6dp</dimen>
+    <dimen name="md">8dp</dimen>
+    <dimen name="lg">12dp</dimen>
+    <dimen name="lg_xl">16dp</dimen>
+    <dimen name="xl">32dp</dimen>
+    <dimen name="xx_xl">64dp</dimen>
+    <dimen name="logo_height">100dp</dimen>
+    <dimen name="app_title">35sp</dimen>
+</resources>

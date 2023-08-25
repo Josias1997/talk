@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395175256885",
+    "project_id": "talk-f545f",
+    "storage_bucket": "talk-f545f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395175256885:android:4344d1a7e9915e057be27c",
+        "android_client_info": {
+          "package_name": "com.eidogs.talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395175256885-5asc92n94j5ava4a72mp16ru5sne7hb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc303kLj5cjPKs3_6-JSfoT-utvLTKd7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395175256885-5asc92n94j5ava4a72mp16ru5sne7hb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
